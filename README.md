@@ -1,4 +1,4 @@
-# HR meets Machine Learning, “Who will Leave your Company in This Year?”
+# HR meets Machine Learning: Employee Attrition Prediction
 ## HR領域における機械学習の応用：社員の退職時期予測 by IBM Dataset
 ![](https://www.business-science.io/assets/hr_employee_attrition.png)
 
